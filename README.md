@@ -1,0 +1,1 @@
+# hqa-bot-avatar
